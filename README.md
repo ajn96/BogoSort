@@ -1,0 +1,1 @@
+C++ factorial finder. Uses the big O complexity of bogosort to approximate the factorial of a given size array. CLI provides options to select factorial to calculate, and number of averages for a given approximation.
